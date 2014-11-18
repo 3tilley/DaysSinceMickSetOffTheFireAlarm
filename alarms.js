@@ -1,1 +1,3 @@
-var alarms = [Date(2014,11,16)];
+var alarms = [new Date(2014, 10, 16, 20)];
+
+console.log("alarms.js loaded.")
